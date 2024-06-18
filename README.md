@@ -32,5 +32,7 @@ There are 3 solve arguments:
 
 For an example you can submit part 1 for day 7 using the command:
 ```
-py day7.py 1
+py day07.py 1
 ```
+
+### Yes, I like having them in order so we use a padding 0 on single digit days....
